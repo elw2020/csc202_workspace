@@ -1,0 +1,12 @@
+[
+   {
+      "directory" : "C:/Users/elw20/Desktop/workspace.txt/mspm0_workspace/Proj_1a/Debug",
+      "command"   : "clang++ -I\"C:/Users/elw20/Desktop/workspace.txt/mspm0_workspace/Proj_1a\" -I\"C:/Users/elw20/Desktop/workspace.txt/mspm0_workspace/Proj_1a/Debug\" -I\"/source/third_party/CMSIS/Core/Include\" -I\"/source\" -D__MSPM0G3507__ -isystem\"C:/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"C:/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"C:/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "C:/Users/elw20/Desktop/workspace.txt/mspm0_workspace/Proj_1a/lab6_part1.c"
+   },
+   {
+      "directory" : "C:/Users/elw20/Desktop/workspace.txt/mspm0_workspace/Proj_1a/Debug",
+      "command"   : "clang++ -I\"C:/Users/elw20/Desktop/workspace.txt/mspm0_workspace/Proj_1a\" -I\"C:/Users/elw20/Desktop/workspace.txt/mspm0_workspace/Proj_1a/Debug\" -I\"/source/third_party/CMSIS/Core/Include\" -I\"/source\" -D__MSPM0G3507__ -isystem\"C:/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"C:/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"C:/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "C:/Users/elw20/Desktop/workspace.txt/mspm0_workspace/Proj_1a/ticlang/startup_mspm0g3507_ticlang.c"
+   }
+]

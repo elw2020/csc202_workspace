@@ -1,0 +1,12 @@
+[
+   {
+      "directory" : "C:/Users/elw20/Desktop/workspace.txt/mspm0_workspace/MSPM0G3507_Blank_Project/Debug",
+      "command"   : "clang++ -I\"C:/Users/elw20/Desktop/workspace.txt/mspm0_workspace/MSPM0G3507_Blank_Project\" -I\"C:/Users/elw20/Desktop/workspace.txt/mspm0_workspace/MSPM0G3507_Blank_Project/Debug\" -I\"/source/third_party/CMSIS/Core/Include\" -I\"/source\" -D__MSPM0G3507__ -isystem\"C:/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"C:/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"C:/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "C:/Users/elw20/Desktop/workspace.txt/mspm0_workspace/MSPM0G3507_Blank_Project/main.c"
+   },
+   {
+      "directory" : "C:/Users/elw20/Desktop/workspace.txt/mspm0_workspace/MSPM0G3507_Blank_Project/Debug",
+      "command"   : "clang++ -I\"C:/Users/elw20/Desktop/workspace.txt/mspm0_workspace/MSPM0G3507_Blank_Project\" -I\"C:/Users/elw20/Desktop/workspace.txt/mspm0_workspace/MSPM0G3507_Blank_Project/Debug\" -I\"/source/third_party/CMSIS/Core/Include\" -I\"/source\" -D__MSPM0G3507__ -isystem\"C:/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"C:/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"C:/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"C:/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "C:/Users/elw20/Desktop/workspace.txt/mspm0_workspace/MSPM0G3507_Blank_Project/ticlang/startup_mspm0g3507_ticlang.c"
+   }
+]
